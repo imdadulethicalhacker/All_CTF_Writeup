@@ -8,12 +8,12 @@
 
 
 # Content Page
-- [Binary Exploitation](#binary-exploitation)
-- [Cryptography](#cryptography)
-- [Forensics](#forensics)
-- [General Skills](#general-skills)
-- [Reversing](#reversing)
-- [Web Exploitation](#web-exploitation)
+- [Binary Exploitation](#Binary_Exploitation)
+- [Cryptography](#Cryptography)
+- [Forensics](#Forensics)
+- [General Skills](#General_Skills)
+- [Reversing](#Reverse_Engineering)
+- [Web Exploitation](#Web_Exploitation)
 
 ## Binary Exploitation
 <table>
