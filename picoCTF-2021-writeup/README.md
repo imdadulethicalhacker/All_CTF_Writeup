@@ -404,6 +404,7 @@
             <th>Challenges</th>
             <th>Points</th>
             <th>Status</th>
+            <th>Flag</th>
         </tr>
     </thead>
     
@@ -416,9 +417,17 @@
             <th>Challenges</th>
             <th>Points</th>
             <th>Status</th>
+            <th>Flag</th>
         </tr>
     </thead>
-    
+    <tbody>
+        <tr>
+            <td markdown="span"><a href="General_Skills/">Mod 26</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+    </tbody>
 </table>
 
 ## Reversing
@@ -428,8 +437,17 @@
             <th>Challenges</th>
             <th>Points</th>
             <th>Status</th>
+            <th>Flag</th>
         </tr>
     </thead>
+    <tbody>
+        <tr>
+            <td markdown="span"><a href="Reverse_Engineering/">Mod 26</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+    </tbody>
     
        
 </table>
@@ -443,6 +461,14 @@
             <th>Status</th>
         </tr>
     </thead>
+    <tbody>
+        <tr>
+            <td markdown="span"><a href="Web_Exploitation/">Mod 26</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+    </tbody>
     
      
 </table>
