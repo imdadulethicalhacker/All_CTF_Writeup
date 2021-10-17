@@ -80,7 +80,7 @@ else:
 
 ```
 
-Download all file and open the kali linux terminal and run this commend `python ende.py - flag.txt.en`
+Download all the files and open the kali linux terminal and run this commend `python ende.py - flag.txt.en`
 
 ![flag](1.png)
 
