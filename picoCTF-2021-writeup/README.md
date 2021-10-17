@@ -643,8 +643,8 @@
         <tr>
             <td markdown="span"><a href="General_Skills/1_Obedient_Cat">Obedient Cat</a></td>
             <td markdown="span">5</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{s4n1ty_v3r1f13d_2fd6ed29}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="General_Skills/2_Python_Wrangling">Python Wrangling</a></td>
