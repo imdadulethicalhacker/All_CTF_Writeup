@@ -673,8 +673,8 @@
         <tr>
             <td markdown="span"><a href="General_Skills/6_Tab_Tab_Attack">Tab, Tab, Attack</a></td>
             <td markdown="span">20</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{l3v3l_up!_t4k3_4_r35t!_2bcfb2ab}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="General_Skills/7_Magikarp_Ground_Mission">Magikarp Ground Mission</a></td>
