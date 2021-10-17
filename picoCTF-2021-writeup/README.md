@@ -2,7 +2,7 @@
 
 ### Solutions and writeups for the picoCTF Cybersecurity Competition
 
-![](Benar/screenshot_categories.png)
+![](Benar/all.png)
 
 
 
