@@ -4,7 +4,7 @@
 
 ![](screenshot_categories.png)
 
-## Overview
+
 
 
 # Content Page
