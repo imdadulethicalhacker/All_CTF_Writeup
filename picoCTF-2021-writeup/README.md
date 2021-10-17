@@ -1,9 +1,10 @@
-# PicoCTF 2021
-### Solutions and writeups for the picoCTF Cybersecurity Competition 
+### PicoCTF 2021
+
+
 
 ![](screenshot_categories.png)
 
-
+## Overview
 
 
 # Content Page
@@ -13,6 +14,7 @@
 - [General Skills](#General_Skills)
 - [Reversing](#Reverse_Engineering)
 - [Web Exploitation](#Web_Exploitation)
+
 
 ## Binary Exploitation
 <table>
@@ -406,6 +408,224 @@
             <th>Flag</th>
         </tr>
     </thead>
+    <tbody>
+        <tr>
+            <td markdown="span"><a href="Forensics/1_information">Information</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/2_Matryoshka_doll">Matryoshka doll</a></td>
+            <td markdown="span">30</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/3_tunn3l_v1s10n">tunn3l v1s10n</a></td>
+            <td markdown="span">40</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/4_Glory_of_the_Garden">Glory of the Garden</a></td>
+            <td markdown="span">50</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/5_Wireshark_doo_dooo_do_doo">Wireshark Doo Dooo Do Doo...</a></td>
+            <td markdown="span">50</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/6_MacroHard_WeakEdge">MacroHard WeakEdge</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/7_Trivial_Flag_Transfer_Protocol">Trivial Flag Transfer Protocol</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/8_Wireshark_twoo_twooo_two_twoo">Wireshark Twoo Twooo Two Twoo...</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/9_advanced_potion_making">Advanced-Potion-Making</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/10_Disk_disk,_sleuth">Disk, Disk, Sleuth!</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/11_Milkslap">Milkslap</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/12_Disk_disk_sleuth_1">Disk, Disk, Sleuth! II</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/13_So_Meta">So Meta</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/14_shark_on_wire_1">Shark on Wire 1</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/15_extensions">Extensions</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/16_What-Lies_Within">What Lies Within</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/17_Pitter_Patter_Platters">Pitter, Patter, Platters</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/18_scrambled_bytes">Scrambled-Bytes</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/19_m00nwalk">M00nwalk</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/20_WhitePages">WhitePages</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/21_c0rrupt">C0rrupt</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/22_like1000">like1000</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/23_Surfing_the_Waves">Surfing the Waves</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/24_m00nwalk2">m00nwalk2</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/25_Investigative_Reversing_0">Investigative Reversing 0</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/26_shark_on_wire_2">Shark on Wire 2</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/27_Very_very_very_Hidden">Very very very Hidden</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/28_Investigative_Reversing_2">Investigative Reversing 2</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/29_Investigative_Reversing_1">Investigative Reversing 1</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/30_WebNet0">WebNet0</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/31_Investigative_Reversing_4">Investigative Reversing 4</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/32_Investigative_Reversing_3">Investigative Reversing 3</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/33_WebNet1"></a>WebNet1</td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/34_investigation_encoded_1">Investigation_Encoded_1</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/35_investigation_encoded_2">Investigation_Encoded_2</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/36_B1g_Mac">B1g_Mac</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+    </tbody>
     
 </table>
 
@@ -421,7 +641,115 @@
     </thead>
     <tbody>
         <tr>
-            <td markdown="span"><a href="General_Skills/">Mod 26</a></td>
+            <td markdown="span"><a href="General_Skills/1_Obedient_Cat">Obedient Cat</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="General_Skills/2_Python_Wrangling">Python Wrangling</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="General_Skills/3_Wave a_flag">Wave a flag</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="General_Skills/4_Nice_netcat">Nice netcat...</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="General_Skills/5_Static_ain_always_noise">Static ain't always noise</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="General_Skills/6_Tab_Tab_Attack">Tab, Tab, Attack</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="General_Skills/7_Magikarp_Ground_Mission">Magikarp Ground Mission</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="General_Skills/8_Lets_Warm_Up">Lets Warm Up</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="General_Skills/9_Warmed_Up">Warmed Up</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="General_Skills/10_2Warm">2Warm</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="General_Skills/11_vault_door_8">What's a Net Cat?</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="General_Skills/12_strings_it">strings it</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="General_Skills/13_Bases">Bases</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="General_Skills/14_First_Grep">First Grep</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="General_Skills/15_Based">Based</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="General_Skills/16_plumbing">Plumbing</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="General_Skills/17_mus1c">Mus1c</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="General_Skills/18_flag_shop">Flag_Shop</a></td>
+            <td markdown="span">10</td>
+            <td markdown="span">Unsolved</td>
+            <td markdown="span">Unsolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="General_Skills/19_1_wanna_b3_a_r0ck5tar">1_wanna_b3_a_r0ck5tar</a></td>
             <td markdown="span">10</td>
             <td markdown="span">Unsolved</td>
             <td markdown="span">Unsolved</td>
@@ -448,7 +776,7 @@
         </tr>
     </tbody>
     
-       
+
 </table>
 
 ## Web Exploitation
@@ -469,5 +797,5 @@
         </tr>
     </tbody>
     
-     
+
 </table>
