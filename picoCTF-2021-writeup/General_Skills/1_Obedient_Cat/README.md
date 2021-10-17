@@ -1,4 +1,4 @@
-# authenticate
+# Obedient Cat
 Points: 5
 
 ## Category

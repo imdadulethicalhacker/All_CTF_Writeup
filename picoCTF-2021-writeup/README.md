@@ -649,14 +649,14 @@
         <tr>
             <td markdown="span"><a href="General_Skills/2_Python_Wrangling">Python Wrangling</a></td>
             <td markdown="span">10</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{4p0110_1n_7h3_h0us3_ac9bd0ff}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="General_Skills/3_Wave a_flag">Wave a flag</a></td>
             <td markdown="span">10</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{b1scu1ts_4nd_gr4vy_f0668f62}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="General_Skills/4_Nice_netcat">Nice netcat...</a></td>
