@@ -16,7 +16,7 @@ General Skills
 
 ## Decode Python Code
 
-```c
+```python
 
 import sys
 import base64
