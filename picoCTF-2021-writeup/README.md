@@ -661,8 +661,8 @@
         <tr>
             <td markdown="span"><a href="General_Skills/4_Nice_netcat">Nice netcat...</a></td>
             <td markdown="span">15</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{g00d_kltty!_nlc3_kltty!_afd5fda4}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="General_Skills/5_Static_ain_always_noise">Static ain't always noise</a></td>
