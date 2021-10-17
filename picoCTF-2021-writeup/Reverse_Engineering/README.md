@@ -1,6 +1,6 @@
 # PicoCTF 2021
 
-### Solutions and writeups for the picoCTF General Skills
+### Solutions and writeups for the picoCTF Reverse Engineering
 
 ![](rev.png)
 
