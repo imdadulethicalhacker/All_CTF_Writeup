@@ -8,12 +8,12 @@
 
 
 # Content Page
-- [Binary Exploitation](#Binary_Exploitation "Binary Exploitation")
+- [Binary Exploitation](#Binary-Exploitation "Binary Exploitation")
 - [Cryptography](#Cryptography "Cryptography")
 - [Forensics](#Forensics "Forensics")
-- [General Skills](#General_Skills "General Skills")
-- [Reversing](#Reverse_Engineering "Reverse Engineering")
-- [Web Exploitation](#Web_Exploitation "Web Exploitation")
+- [General Skills](#General-Skills "General Skills")
+- [Reversing](#Reverse-Engineering "Reverse Engineering")
+- [Web Exploitation](#Web-Exploitation "Web Exploitation")
 
 
 ## Binary Exploitation
@@ -602,7 +602,7 @@
             <td markdown="span">Unsolved</td>
         </tr>
         <tr>
-            <td markdown="span"><a href="Forensics/33_WebNet1"></a>WebNet1</td>
+            <td markdown="span"><a href="Forensics/33_WebNet1">WebNet1</a></td>
             <td markdown="span">450</td>
             <td markdown="span">Unsolved</td>
             <td markdown="span">Unsolved</td>
