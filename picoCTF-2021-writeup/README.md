@@ -792,32 +792,32 @@
         <tr>
             <td markdown="span"><a href="Web_Exploitation/1_GET_aHEAD">GET AHEAD</a></td>
             <td markdown="span">20</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{r3j3ct_th3_du4l1ty_8f878508}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/2_Cookies">Cookies</a></td>
             <td markdown="span">40</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{3v3ry1_l0v3s_c00k135_a1f5bdb7}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/3_Insp3ct0r">Insp3ct0r</a></td>
             <td markdown="span">50</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?2e7b23e3}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/4_Scavenger_hunt">Scavenger Hunt</a></td>
             <td markdown="span">50</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{tru3_d3h4ts_4_l0_fa04427c}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/5_Some_Assembly_Required_1">Some Assembly Required 1</a></td>
             <td markdown="span">70</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{d88090e679c48f3945fcaa6a7d6d70c5}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/6_More_Cookies">More Cookies</a></td>
@@ -828,8 +828,8 @@
         <tr>
             <td markdown="span"><a href="Web_Exploitation/7_where_are_the_robots">Where Are The Robots</a></td>
             <td markdown="span">100</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{ca1cu1at1ng_Mach1n3s_1bb4c}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/8_logon">Logon</a></td>
