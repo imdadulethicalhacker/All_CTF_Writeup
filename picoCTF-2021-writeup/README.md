@@ -834,14 +834,14 @@
         <tr>
             <td markdown="span"><a href="Web_Exploitation/8_logon">Logon</a></td>
             <td markdown="span">100</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{th3_c0nsp1r4cy_l1v3s_0c98aacc}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/9_dont_use_client_side">Dont Use Client Side</a></td>
             <td markdown="span">100</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{no_clients_plz_b706c5}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/10_It_is_my_Birthday">It Is My Birthday</a></td>
