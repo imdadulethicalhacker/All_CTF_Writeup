@@ -846,20 +846,20 @@
         <tr>
             <td markdown="span"><a href="Web_Exploitation/10_It_is_my_Birthday">It Is My Birthday</a></td>
             <td markdown="span">100</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{c0ngr4ts_u_r_1nv1t3d_aad886b9}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/11_Who_are_you">Who Are You</a></td>
             <td markdown="span">100</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{http_h34d3rs_v3ry_c0Ol_much_w0w_8d5d8d77}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/12_droids0">Login</a></td>
             <td markdown="span">100</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/13_Some_Assembly_Required_2">Some Assembly Required 2</a></td>
