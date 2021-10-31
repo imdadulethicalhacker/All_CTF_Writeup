@@ -769,10 +769,16 @@
     </thead>
     <tbody>
         <tr>
-            <td markdown="span"><a href="Reverse_Engineering/">Mod 26</a></td>
-            <td markdown="span">10</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span"><a href="Reverse_Engineering/">Transformation</a></td>
+            <td markdown="span">20</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{16_bits_inst34d_of_8_d52c6b93}</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Reverse_Engineering/">Keygenme-py</a></td>
+            <td markdown="span">30</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{1n_7h3_|<3y_of_ac73dc29}</td>
         </tr>
     </tbody>
     
@@ -864,14 +870,14 @@
         <tr>
             <td markdown="span"><a href="Web_Exploitation/13_Some_Assembly_Required_2">Some Assembly Required 2</a></td>
             <td markdown="span">110</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCT=kF{15021d97ae0a401788600c815fb1caef}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/14_Super_Serial">Super Serial</a></td>
             <td markdown="span">130</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{th15_vu1n_1s_5up3r_53r1ous_y4ll_8db8f85c}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/15_Most_Cookies">Most Cookies</a></td>
@@ -882,38 +888,38 @@
         <tr>
             <td markdown="span"><a href="Web_Exploitation/16_caas">Caas</a></td>
             <td markdown="span">150</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{moooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo0o}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/17_Some_Assembly_Required_3">Some Assembly Required 3</a></td>
             <td markdown="span">160</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{37240bd3038b289d3a5c70cbe83a1821}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/18_Web_Gauntlet_2">Web Gauntlet 2</a></td>
             <td markdown="span">170</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{0n3_m0r3_t1m3_e2db86ae880862ad471aa4c93343b2bf}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/19_picobrowser">Picobrowser</a></td>
             <td markdown="span">200</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{p1c0_s3cr3t_ag3nt_84f9c865}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/20_Client_side_again">Client Side Again</a></td>
             <td markdown="span">200</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{not_this_again_ef49bf}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/21_Web_Gauntlet">Web Gauntlet</a></td>
             <td markdown="span">200</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span"> picoCTF{y0u_m4d3_1t_a3ed4355668e74af0ecbb7496c8dd7c5}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/22_Some_Assembly_Required_4">Some Assembly Required 4</a></td>
