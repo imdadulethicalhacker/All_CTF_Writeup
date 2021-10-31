@@ -775,7 +775,7 @@
             <td markdown="span">picoCTF{16_bits_inst34d_of_8_d52c6b93}</td>
         </tr>
         <tr>
-            <td markdown="span"><a href="Reverse_Engineering/">Keygenme-py</a></td>
+            <td markdown="span"><a href="Reverse_Engineering/2_keygenme_py">Keygenme-py</a></td>
             <td markdown="span">30</td>
             <td markdown="span">Solved</td>
             <td markdown="span">picoCTF{1n_7h3_|<3y_of_ac73dc29}</td>
