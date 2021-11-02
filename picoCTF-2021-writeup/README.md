@@ -942,44 +942,44 @@
         <tr>
             <td markdown="span"><a href="Web_Exploitation/25_Irish_Name_Repo_1">Irish Name Repo 1</a></td>
             <td markdown="span">300</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">solved</td>
+            <td markdown="span">picoCTF{s0m3_SQL_c218b685}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/26_Web_Gauntlet_3">Web Gauntlet 3</a></td>
             <td markdown="span">300</td>26_Web_Gauntlet_3
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{k3ep_1t_sh0rt_6fdd78c92c7f26a10acd3ece176dea4d}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/27_Irish_Name_Repo_2">Irish Name Repo 2</a></td>
             <td markdown="span">350</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{m0R3_SQL_plz_fa983901}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/28_Irish_Name_Repo_3">Irish Name Repo 3</a></td>
             <td markdown="span">400</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{3v3n_m0r3_SQL_06a9db19}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/29_JaWT_Scratchpad">JaWT Scratchpad</a></td>
             <td markdown="span">400</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{jawt_was_just_what_you_thought_1ca14548}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/30_Java_Script_Kiddie">Java Script Kiddie</a></td>
             <td markdown="span">400</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{905765bf9ae368ad98261c10914d894e}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/32_Java_Script_Kiddie_2">Java Script Kiddie 2</a></td>
             <td markdown="span">450</td>
-            <td markdown="span">Unsolved</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
+            <td markdown="span">picoCTF{b19be0d3b70ffc63b6367ecf136e853e}</td>
         </tr>
         <tr>
             <td markdown="span"><a href="Web_Exploitation/33_Bithug">Bithug</a></td>
